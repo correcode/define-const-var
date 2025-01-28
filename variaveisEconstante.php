@@ -14,6 +14,3 @@ echo "Idade: $userAge\n";
 echo "Salario Bruto: R$ $userWage\n";
 echo "Imposto (0.15%): $valorImposto\n";
 echo "Salario Liquido: R$ $salarioLiquido\n";
-
-
-?>
